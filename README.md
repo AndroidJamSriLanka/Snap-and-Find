@@ -1,5 +1,3 @@
-# App Idea for Android Study Jam - Fianal Project
-
 # Quick Jobs - Job Search Management Android App
 
 Android app for anyone who is actively searching for jobs in Sri Lanka
