@@ -1,8 +1,5 @@
-# Quick Jobs - Job Search Management Android App
+# Snap & Find - Address Finder
 
-Android app for anyone who is actively searching for jobs in Sri Lanka
-to find job postings and apply to the through the app.
+Problem: Most of the time the addresses of where we wanna go is on paper. May be on a business card, newspaper or may be on a poster on a wall. If we wanna know where it is we need to enter the address manually and search. Its time consuming and boring.
 
-After applying for jobs when the users land an interview they can manage 
-tasks till they go for the interview by setting reminders, location of the
-company on a map and navigation.
+Solution: Use the camera of your smartphone to quicly snap a photo of the address and search the address on google maps. Find the location in just a snap. App uses OCR to extract the address from the photo and reverse geocoding to find and navigate the user to the destination.
